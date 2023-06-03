@@ -7,11 +7,9 @@ Following are the report of this data.
 
 *37 is the average age of the employees.
 
-*The highest number of employees are 'sales executive' (326) , 'Research scientist' (292) and                  
-the lowest number of employees are 'human resources' (52) and 'Research director' (80).  
+*The highest number of employees are 'sales executive' (326) ,'Research scientist'(292) and the lowest number of employees are 'human resources'(52) and 'Research director'(80).  
 
-*The highest number of employees have done their education in 'Life science' and  'Medical' 
-and the lowest number of employees have done their education in 'Human resources'. 
+*The highest number of employees have done their education in 'Life science' and  'Medical' and the lowest number of employees have done their education in 'Human resources'. 
 
 *The highest work life balance department wise is in HR department  followed by sales and R&D  department. 
 
