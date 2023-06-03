@@ -3,6 +3,7 @@
 This is Hr dashboard of TCS. I have analysed this dataset and prepared dashboard.
 
 Following are the report of this data.
+
 *1470 is the total number of employee out of which 1233 is active employee. 
 
 *37 is the average age of the employees.
